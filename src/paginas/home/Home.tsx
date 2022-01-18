@@ -57,7 +57,7 @@ function Home() {
                 <Grid item xs={6} >
                     <Box display="flex" justifyContent='center'>
                         <Box>
-                            <img src="https://i.imgur.com/xJwojLF.png" alt="" width="700vw" height="700vh" className='imagem2' />
+                          
                         </Box>
                     </Box>
                 </Grid>
