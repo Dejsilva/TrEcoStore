@@ -8,10 +8,10 @@
  
 }
 
-.pointer {
+.pointer2 {
   cursor: pointer;
   color: black;
-  margin-top: 5px;
+  margin-top: -2px;
   display:flex;
   justify-content: flex-end;
 
@@ -43,7 +43,7 @@ a {
 .sair {
   display: flex;
   justify-content: flex-end;
-  margin-top: 5px;
+  margin-top: 12px;
 margin-left: 60px;
 }
 .menu1{
@@ -71,6 +71,5 @@ margin-left: 60px;
 .pointer {
   cursor: pointer;
   color: black;
-  margin-top: 4px;
-  
+  margin-top: 12px;
 }

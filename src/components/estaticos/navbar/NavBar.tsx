@@ -147,14 +147,11 @@ function NavBar() {
                     <Link to='/formularioCategoria' className='text-decorator-none box-cadastro'>
                       <MenuItem onClick={handleClose}>Categoria</MenuItem>
                     </Link>
-                    <Link to='/sobre' className='text-decorator-none box-cadastro'>
-                      <MenuItem onClick={handleClose} >Saiba Mais</MenuItem>
-                    </Link>
                   </Menu>
                 </Box>
               </Box>
               <Box className='sair'>
-                <Link to='/login' >
+                <Link to='/login' className='text-decorator-none' >
                   <Box onClick={goLogout}>
                     <Typography variant="h6" color="inherit" className='txtmenu'>
                       Sair
